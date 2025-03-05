@@ -98,7 +98,7 @@ sortedcontainers==2.4.0
 soupsieve==2.4.1
 staking_deposit @ git+https://github.com/ethereum/staking-deposit-cli.git@d7b530442d6e0921c9db84b3a1cf6b3ecd6b9d35
 sympy==1.12
-ta-lib==0.6.3
+ta-lib==0.4.0
 toolz==0.12.1
 tornado==6.4.1
 tqdm==4.65.0
